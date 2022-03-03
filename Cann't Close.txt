@@ -1,0 +1,8 @@
+DO
+msg1 = msgbox("Close this box",o,"codes,learning")
+msg2 = msgbox("Try again!",o,"codes,learning")
+msg2 = msgbox("Try again",o,"codes,learning")
+msg4 = msgbox("You Cannot close it!",o,"codes.learning")
+LOOP
+
+vbx
